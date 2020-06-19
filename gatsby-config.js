@@ -5,9 +5,6 @@ module.exports = {
       name: `tictic dev team`,
     },
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
-    social: {
-      twitter: `kylemathews`,
-    },
   },
   plugins: [
     {
